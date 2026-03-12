@@ -6,11 +6,27 @@
 
 ## What This Is
 
-This repository holds **one file**: the ShaneTheBrain Constitution.
+This repository holds the **ShaneTheBrain Constitution** and project configuration for the ecosystem.
 
 It is not a framework. Not a template. Not a corporate policy doc.
 
 It is a personal covenant — written by a Christian father and builder in Hazel Green, Alabama — that governs how every tool in this ecosystem gets built, deployed, and credited.
+
+---
+
+## Infrastructure
+
+All repos in this ecosystem run on local-first hardware:
+
+| Component | Detail |
+|-----------|--------|
+| **Compute** | Raspberry Pi 5 (16 GB RAM) |
+| **Chassis** | Pironman 5-MAX by Sunfounder |
+| **Storage** | 2x WD Blue SN5000 2 TB NVMe — RAID 1 via mdadm |
+| **Core path** | `/mnt/shanebrain-raid/shanebrain-core/` |
+| **Networking** | Tailscale VPN across all nodes |
+
+> Pi before cloud. Privacy before convenience. — Pillar 4
 
 ---
 
