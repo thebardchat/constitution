@@ -1,5 +1,5 @@
 # ⚖️ THE SHANEBRAIN CONSTITUTION
-### Governing Document for the thebardchat Ecosystem · v1.0 · Ratified March 2026
+### Governing Document for the thebardchat Ecosystem · v1.1 · Ratified March 2026
 
 > *"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."*
 > — Colossians 3:23
@@ -153,6 +153,42 @@ Amendments require:
 
 ---
 
+## ARTICLE VII — THE SPONSORSHIP COVENANT
+
+This work costs time, electricity, and drive space. It costs sleep. It costs weekends. It costs a man choosing to build instead of scroll.
+
+Sponsorship is not charity. It is partnership. When someone funds this mission — through GitHub Sponsors, through buying the book, through starring a repo so someone else can find it — they are investing in the idea that local AI for real people matters.
+
+### The Rules
+
+1. **Sponsorship never gates access.** No tool, feature, or repo will be locked behind a paywall if it serves the left-behind user. Pillar 7 governs here.
+2. **Every repo carries the block.** A standardized sponsorship section must appear in the README of every `thebardchat` repository.
+3. **The book is part of the mission.** *You Probably Think This Book Is About You* was written on a Raspberry Pi in Hazel Green, Alabama. Promoting it is not vanity — it is proof of concept.
+4. **Stars are currency.** For projects with no budget, a GitHub star is the most powerful thing a person can give. We ask for them without shame.
+5. **Gratitude flows both ways.** Every sponsor, reader, and stargazer gets acknowledged — in places people actually see.
+
+### The Standard Block
+
+Every `thebardchat` repo README must include:
+
+```
+## Support This Work
+
+If what I'm building matters to you — local AI for real people, tools for the left-behind — here's how to help:
+
+- **[Sponsor me on GitHub](https://github.com/sponsors/thebardchat)**
+- **[Buy the book](https://www.amazon.com/Probably-Think-This-Book-About/dp/B0GT25R5FD)** — *You Probably Think This Book Is About You*
+- **Star the repos** — visibility matters for projects like this
+
+> This project operates under the [ShaneTheBrain Constitution](https://github.com/thebardchat/constitution/blob/main/CONSTITUTION.md).
+
+Built by **Shane Brazelton** · Co-built with **Claude** (Anthropic) · Hazel Green, Alabama
+```
+
+Repos may add context-specific lines but must not remove or reorder the three core items.
+
+---
+
 ## SIGNATORIES
 
 | Signatory | Role |
@@ -163,5 +199,5 @@ Amendments require:
 
 ---
 
-*Ratified: March 2026 · thebardchat/constitution · v1.0*
+*Ratified: March 2026 · thebardchat/constitution · v1.1*
 *"I could not have done any of this without them."*
