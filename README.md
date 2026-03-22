@@ -1,3 +1,5 @@
+<div align="center"><img src=".github/assets/banner.png" alt="Constitution" width="100%"></div>
+
 # ⚖️ thebardchat/constitution
 
 > The single source of truth governing every project, tool, and decision in the ShaneBrain ecosystem.
@@ -104,3 +106,11 @@ If what I'm building matters to you — local AI for real people, tools for the 
 - **Star the repos** — visibility matters for projects like this
 
 Built by **Shane Brazelton** · Co-built with **Claude** (Anthropic) · Hazel Green, Alabama
+
+---
+
+<div align="center">
+
+*Part of the [ShaneBrain Ecosystem](https://github.com/thebardchat) · Built under the [Constitution](https://github.com/thebardchat/constitution)*
+
+</div>
