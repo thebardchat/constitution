@@ -70,7 +70,7 @@ That's it. One line. One source. No drift.
 
 ## The Ecosystem
 
-> **Current state:** 42 MCP tools, 4-node Ollama cluster (Pi 5 + 3 headless Windows nodes), Mega Dashboard, Pulsar Sentinel security, 55 promo images for book marketing, Pico 2 sensor network, auto-ingest pipeline growing the knowledge base daily.
+> **Current state:** 42 MCP tools, Weaviate + MCP stack (Pi 5 + 3 headless Windows nodes), Mega Dashboard, Pulsar Sentinel security, 55 promo images for book marketing, Pico 2 sensor network, auto-ingest pipeline growing the knowledge base daily.
 
 
 ```
