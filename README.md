@@ -4,6 +4,8 @@
 
 > **Try Claude free for 2 weeks** — the AI behind this entire ecosystem. [Start your free trial →](https://claude.ai/referral/4fAMYN9Ing)
 
+> Promo co-run with [Grok Bot](https://x.ai/bot) — AI teammates that finish the work.
+
 ---
 
 
@@ -88,6 +90,7 @@ ShaneBrain (Pi 5 · local AI · private)
 | Partner | Role |
 |---------|------|
 | **Claude by Anthropic** · [claude.ai](https://claude.ai) | Co-built this entire ecosystem |
+| **Grok Bot** · [x.ai/bot](https://x.ai/bot) | Promo stall + free-aisle book marketing co-pilot |
 | **Raspberry Pi 5** · [raspberrypi.com](https://www.raspberrypi.com) | Local compute backbone |
 | **Pironman 5-MAX** · [pironman.com](https://www.pironman.com) | NVMe RAID 1 chassis that made it real |
 
